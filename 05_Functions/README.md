@@ -40,7 +40,7 @@ Inbuilt vs User Defined Methods
 Function Overloading  
   Learn how multiple methods can share the same name with different parameters.
 
-
+---
 
 Part 2: Overloading and Number Methods
 
@@ -90,3 +90,4 @@ Block Scope
   Understand how scope changes within blocks like `if`, `for`, or `{}`.
 
 ---
+
